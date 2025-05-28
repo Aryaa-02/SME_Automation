@@ -1,0 +1,26 @@
+{
+  "productID": "8894640849149",
+  "productName": "Practical Wooden Shoes",
+  "productDescriptionwithTags": "<p>Experience the salmon brilliance of our Chair, perfect for back environments</p>",
+  "productPrice": "390.75",
+  "variantData": [
+    {
+      "name": "Blue",
+      "price": "128.99",
+      "quantity": "21",
+      "ID": "46318924235005"
+    },
+    {
+      "name": "Black",
+      "price": "350.09",
+      "quantity": "43",
+      "ID": "46318924267773"
+    },
+    {
+      "name": "Red",
+      "price": "463.75",
+      "quantity": "12",
+      "ID": "46318924300541"
+    }
+  ]
+}
