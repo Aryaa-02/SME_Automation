@@ -40,12 +40,6 @@ export const orderData = {
         faker.number.int({ min: 15, max: 20 }),]
 };
 
-export const SalesforceCreds = {
-        username: "smeauto@gmail.com",
-        password: "System@1234",
-        url: "https://login.salesforce.com/?locale=in"
-};
-
 export const ShopifyData = {
     ShopifyURL: "https://www.shopify.com/in",
     ShopifyLoginButton: 'Login'
