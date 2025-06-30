@@ -2,7 +2,7 @@
 
 This is a Playwright automation framework for testing Shopify to Salesforce integration.
 
-## 📂 Project Structure
+```## 📂 Project Structure
 /Tests --> All .spec.js files
 /Pages --> Auth logic, credentials, and reusable code
 /Shopify-data --> JSON data like ShopifyProduct.json
@@ -10,3 +10,5 @@ This is a Playwright automation framework for testing Shopify to Salesforce inte
 /ShopifyPages --> Shopify-related actions
 /config --> Environment configs
 playwright.config.js
+```
+
